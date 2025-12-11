@@ -1,0 +1,40 @@
+==================================================
+SPARK BIG DATA NAME COUNTER RESULTS
+==================================================
+
+Analysis Date: 2025-12-11 14:04:05.108952
+Target Letter: 'a'
+Total Names Processed: 15
+
+Names containing 'a':
+  Alice
+  Charlie
+  David
+  Frank
+  Grace
+  Jack
+  Kate
+  Liam
+  Mia
+  Noah
+  Olivia
+
+Number of names containing 'a': 11
+Total occurrences of 'a' across all names: 11
+
+Full name list:
+  Alice (1 occurrence(s) of 'a')
+  Bob (0 occurrence(s) of 'a')
+  Charlie (1 occurrence(s) of 'a')
+  David (1 occurrence(s) of 'a')
+  Eve (0 occurrence(s) of 'a')
+  Frank (1 occurrence(s) of 'a')
+  Grace (1 occurrence(s) of 'a')
+  Henry (0 occurrence(s) of 'a')
+  Ivy (0 occurrence(s) of 'a')
+  Jack (1 occurrence(s) of 'a')
+  Kate (1 occurrence(s) of 'a')
+  Liam (1 occurrence(s) of 'a')
+  Mia (1 occurrence(s) of 'a')
+  Noah (1 occurrence(s) of 'a')
+  Olivia (1 occurrence(s) of 'a')

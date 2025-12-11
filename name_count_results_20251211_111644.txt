@@ -1,0 +1,36 @@
+==================================================
+SPARK BIG DATA NAME COUNTER RESULTS
+==================================================
+
+Analysis Date: 2025-12-11 11:16:44.260084
+Target Letter: 'i'
+Total Names Processed: 14
+
+Names containing 'i':
+  Rakshitha
+  Nandini
+  Adithya Jadhav
+  Aishwarya
+  Vinay
+  Rishik
+  Ganavi
+  Sinchana.
+
+Number of names containing 'i': 8
+Total occurrences of 'i' across all names: 10
+
+Full name list:
+  Rakshitha (1 occurrence(s) of 'i')
+  Nandini (2 occurrence(s) of 'i')
+  Adithya Jadhav (1 occurrence(s) of 'i')
+  Sahana (0 occurrence(s) of 'i')
+  Aishwarya (1 occurrence(s) of 'i')
+  Sumanth (0 occurrence(s) of 'i')
+  Sanjay (0 occurrence(s) of 'i')
+  Manuraj (0 occurrence(s) of 'i')
+  Vinay (1 occurrence(s) of 'i')
+  Rishik (2 occurrence(s) of 'i')
+  Sanjay (0 occurrence(s) of 'i')
+  Ganavi (1 occurrence(s) of 'i')
+  Sowmya (0 occurrence(s) of 'i')
+  Sinchana. (1 occurrence(s) of 'i')
